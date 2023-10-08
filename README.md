@@ -16,7 +16,7 @@ git clone https://github.com/duygudogan1/kodluyoruzilkrepo.git
 
 # Contributing
 
-### Pull requests are accepted. For big changes to please open a issue regarding the change.
+### Pull requests are accepted. For big changes please open a issue regarding the change.
 
 # License
 
